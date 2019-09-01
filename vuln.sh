@@ -19,7 +19,7 @@ case $roniyt in
 1)
 clear
 figlet ZK1 |lolcat
-php vuln.php
+sh vulnweb.sh
 ;;
 2)
 clear
